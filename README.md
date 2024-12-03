@@ -6,7 +6,7 @@ Esta é uma API de gerenciamento de tarefas construída com Spring Boot. Ela per
 
 - Ana Beatriz
 - Livia Fernandes
-- Tiago Gouveia
+- Thiago Gouveia
 
 ## Tecnologias Utilizadas
 
@@ -23,13 +23,6 @@ Esta é uma API de gerenciamento de tarefas construída com Spring Boot. Ela per
    - Criar novas tarefas.
    - Visualizar a lista de tarefas.
    - Excluir tarefas.
-
-
-## Requisitos
-
-- Java 8 ou superior
-- Maven
-
 
 
 ## Requisitos
