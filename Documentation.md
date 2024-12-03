@@ -624,11 +624,11 @@ Esta documentação detalha os principais componentes da aplicação "Gerenciado
 
 Diagrama de Arquitetura – Gerenciador de Tarefas
 
-![Diagrama de Arquitetura](https://github.com/RaphaJimmyLuiz/Gerenciador-TarefasSpringBoot/blob/main/Diagrama%20de%20Arquitetura-GerenciadorTarefas.png)
+![Diagrama de Arquitetura]
 
 Diagrama de Classes - Gerenciador de Tarefas
 
-![Diagrama de Classes](https://github.com/RaphaJimmyLuiz/Gerenciador-TarefasSpringBoot/blob/main/Diagrama%20de%20Classes-GerenciadorTarefas.png)
+![Diagrama de Classes](
 
 ## Conclusão
 
